@@ -1,1 +1,1 @@
-Homework for SimpleEQ Lesson by MatKat C++
+Homework for the SimpleEQ Lesson by matkatmusic/SimpleEQ 
